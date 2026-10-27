@@ -19,6 +19,6 @@ This repository is used to temporarily showcase our 15_Kai group's products and 
 
 ## Try our products
 
-- **Android 7.0+ phone**: Download app from [releases] (https://github.com/CrameuIro/TheBedSpace/releases)
-- **Other devices**: Open [TheBedSpace-web] (https://lisiyi0808.github.io/TheBedSpace-web/)in a browser. 
+- **Android 7.0+ phone**: Download app from [releases](https://github.com/CrameuIro/TheBedSpace/releases)
+- **Other devices**: Open [TheBedSpace-web](https://lisiyi0808.github.io/TheBedSpace-web/)in a browser. 
 
