@@ -8,7 +8,7 @@
 
 ### A mobile app designed to help students with their sleep and relief.
 
-This repository is used to temporarily showcase our 15_Kai group's products and provide application downloads. Thanks to all group members for their contributions, and to Codex and Claude Code for their help with the code implementation.
+This repository is used to temporarily showcase our 15_Kai group's products and provide application downloads. Thanks to all group members for their contributions, and to Codex, Claude Code and Trae for their help with the code implementation.
 </div>
 
 <div align="center">
